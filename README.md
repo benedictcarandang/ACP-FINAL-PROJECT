@@ -111,6 +111,6 @@ python main.py
  └── requirements.txt       # List of dependencies (optional)
 ```
 
-## Videos
+## Video
 
 [![Watch Video](https://img.shields.io/badge/Watch-Demonstration-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1nzbErVji5x33xw5zwNgSwGhRa2Tk7DyE/view?usp=sharing))
