@@ -84,20 +84,22 @@ The **Expense Manager Application** aligns with the following **United Nations S
    ```bash
    git clone https://github.com/yourusername/expense-manager.git
 
-Installation:
-Clone the Repository:
-git clone https://github.com/yourusername/expense-manager.git
-Install Dependencies: If you don't have the required libraries installed, you can install them using pip:
+
+**Install Dependencies:** If you don't have the required libraries installed, you can install them using pip:
+```bash
 pip install pillow tkcalendar
+```
 Run the Application: Navigate to the directory where the project is located and run:
+```bash
 python main.py
-Usage:
-Upon launching the application, you can:
-Add new expenses by filling out the form with expense description, price, due date, and category.
-Edit or delete existing expenses from the list.
-View detailed reports and summaries on the Reports screen.
-Generate expense receipts that list all recorded expenses and their details.
-Clear all expenses if needed.
+```
+**Usage:**
+- Upon launching the application, you can:
+- Add new expenses by filling out the form with expense description, price, due date, and category.
+- Edit or delete existing expenses from the list.
+- View detailed reports and summaries on the Reports screen.
+- Generate expense receipts that list all recorded expenses and their details.
+- Clear all expenses if needed.
 File Structure:
 expense-manager/
 │
