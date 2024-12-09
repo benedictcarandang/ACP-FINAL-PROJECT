@@ -101,13 +101,15 @@ python main.py
 - Generate expense receipts that list all recorded expenses and their details.
 - Clear all expenses if needed.
 ## File Structure:
-- expense-manager/
-- │
-- ├── main.py                # Main program file
-- ├── expenses.db            # SQLite database file
-- ├── bg.jpg                 # Background image for the GUI (optional)
-- ├── README.md              # Project documentation (this file)
-- └── requirements.txt       # List of dependencies (optional)
+```
+ expense-manager/
+ │
+ ├── main.py                # Main program file
+ ├── expenses.db            # SQLite database file
+ ├── bg.jpg                 # Background image for the GUI (optional)
+ ├── README.md              # Project documentation (this file)
+ └── requirements.txt       # List of dependencies (optional)
+```
 
 ## Videos
 
