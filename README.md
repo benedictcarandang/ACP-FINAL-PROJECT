@@ -81,3 +81,7 @@ expense-manager/
 ├── bg.jpg                 # Background image for the GUI (optional)
 ├── README.md              # Project documentation (this file)
 └── requirements.txt       # List of dependencies (optional)
+
+## Videos
+
+[![Watch Video](https://img.shields.io/badge/Watch-Demonstration-blue?style=for-the-badge&logo=google-drive)]([https://drive.google.com/file/d/1VU5sLuMIlm3kvF1QdJutMCsOULMrZ1Fe/view?usp=sharing](https://drive.google.com/file/d/1nzbErVji5x33xw5zwNgSwGhRa2Tk7DyE/view?usp=sharing))
